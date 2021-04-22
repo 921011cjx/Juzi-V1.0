@@ -7,3 +7,5 @@
 # juzi01.execute_fun('D:\\PycharmProjects\\JK\\test_data\\test_case_api.xlsx', 'login')
 filename = 'D:\\PycharmProjects\\JK\\test_data\\test_case_api.xlsx'
 sheetname ='login'
+
+name="zhangsan"
